@@ -1,0 +1,22 @@
+* {
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+}
+.top{
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
+.hello{
+    text-align: center;
+    justify-content:center;
+    display: flex;
+}
+#butt{
+        text-align: center;
+        justify-content:center;
+        display: flex;
+}
+
